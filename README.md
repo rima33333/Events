@@ -1,4 +1,4 @@
-# creat new Event 
+![image](https://github.com/user-attachments/assets/4435b34d-b703-475e-b90b-df96ebe85aab)# creat new Event 
 ## Events Site
 ### Overview:
 ```
@@ -19,6 +19,25 @@ providing an added layer of security.
   Authentication: Passport.js
   Password Encryption: bcrypt-nodejs
 ```
-
+<div>
+  <h2> HOME page </h2>
+  <img src= "https://github.com/rima33333/Events/blob/main/public/img/n1.png?raw=true">
+ </div>
+<div>
+  <h2> Login page </h2>
+  <img src= "https://github.com/rima33333/Events/blob/main/public/img/n3.png?raw=true">
+ </div>
+ <div>
+  <h2> Sin up  page  </h2>
+  <img src= "https://github.com/rima33333/Events/blob/main/public/img/n4.png?raw=true">
+ </div>
+ <div>
+  <h2> Profile  page </h2>
+  <img src=  "https://github.com/rima33333/Events/blob/main/public/img/profile.png?raw=true">
+ </div>
+  <div>
+  <h2> Events page </h2>
+  <img src=  "https://github.com/rima33333/Events/blob/main/public/img/n2.png?raw=true">
+ </div>
 
  
